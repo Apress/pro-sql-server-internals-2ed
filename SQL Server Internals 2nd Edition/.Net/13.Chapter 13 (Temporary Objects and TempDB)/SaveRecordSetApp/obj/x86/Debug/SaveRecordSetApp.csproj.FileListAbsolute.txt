@@ -1,0 +1,49 @@
+Z:\__Work\Blog\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\__Work\Blog\SaveRecordSet\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe
+Z:\__Work\Blog\SaveRecordSet\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.pdb
+Z:\__Work\Blog\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Form1.resources
+Z:\__Work\Blog\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Properties.Resources.resources
+Z:\__Work\Blog\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.exe
+Z:\__Work\Blog\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.pdb
+c:\Work\Docs\.B\Precon\C#\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.exe
+c:\Work\Docs\.B\Precon\C#\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.pdb
+c:\Work\Docs\.B\Precon\C#\SaveRecordSet\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe
+c:\Work\Docs\.B\Precon\C#\SaveRecordSet\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.pdb
+c:\Work\Docs\.B\Precon\C#\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Form1.resources
+c:\Work\Docs\.B\Precon\C#\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Properties.Resources.resources
+c:\Work\Docs\.B\Precon\C#\SaveRecordSet\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csproj.GenerateResource.Cache
+C:\Work\SaveBacth\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.exe
+C:\Work\SaveBacth\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.pdb
+C:\Work\SaveBacth\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe
+C:\Work\SaveBacth\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.pdb
+C:\Work\SaveBacth\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csprojResolveAssemblyReference.cache
+C:\Work\SaveBacth\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Form1.resources
+C:\Work\SaveBacth\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Properties.Resources.resources
+C:\Work\SaveBacth\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csproj.GenerateResource.Cache
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe.config
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.exe
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.pdb
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.pdb
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csprojResolveAssemblyReference.cache
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.MainForm.resources
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Properties.Resources.resources
+c:\.Work\SQL Server Internals\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csproj.GenerateResource.Cache
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe.config
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.exe
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.pdb
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.pdb
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csprojResolveAssemblyReference.cache
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.MainForm.resources
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Properties.Resources.resources
+c:\.Net\12.Chapter 12 (Temporary Tables)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csproj.GenerateResource.Cache
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe.config
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.exe
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.pdb
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.exe
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\bin\Debug\SaveRecordSetApp.pdb
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csprojResolveAssemblyReference.cache
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.MainForm.resources
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.Properties.Resources.resources
+C:\.Net\13.Chapter 13 (Temporary Objects and TempDB)\SaveRecordSetApp\obj\x86\Debug\SaveRecordSetApp.csproj.GenerateResource.Cache

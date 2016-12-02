@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMTests", "ORMTests\ORMTests.csproj", "{6C83E583-62FE-4634-B9FA-A567D6196269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF6", "EF6\EF6.csproj", "{3A7F3935-A464-4502-A327-6B25EE964329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{241546D4-4730-4FE8-A928-42CD1401B4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C83E583-62FE-4634-B9FA-A567D6196269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C83E583-62FE-4634-B9FA-A567D6196269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C83E583-62FE-4634-B9FA-A567D6196269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C83E583-62FE-4634-B9FA-A567D6196269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7F3935-A464-4502-A327-6B25EE964329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7F3935-A464-4502-A327-6B25EE964329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7F3935-A464-4502-A327-6B25EE964329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7F3935-A464-4502-A327-6B25EE964329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{241546D4-4730-4FE8-A928-42CD1401B4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241546D4-4730-4FE8-A928-42CD1401B4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241546D4-4730-4FE8-A928-42CD1401B4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241546D4-4730-4FE8-A928-42CD1401B4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

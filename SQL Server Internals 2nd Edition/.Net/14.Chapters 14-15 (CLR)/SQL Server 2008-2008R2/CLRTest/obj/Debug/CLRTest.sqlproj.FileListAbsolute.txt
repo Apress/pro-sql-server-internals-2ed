@@ -1,0 +1,39 @@
+E:\Work\Work\VS\CLRTest\CLRTest\bin\Debug\CLRTest.dacpac
+E:\Work\Work\VS\CLRTest\CLRTest\bin\Debug\CLRTest_Create.sql
+E:\Work\Work\VS\CLRTest\CLRTest\bin\Debug\CLRTest.dll
+E:\Work\Work\VS\CLRTest\CLRTest\bin\Debug\CLRTest.pdb
+E:\Work\Work\VS\CLRTest\CLRTest\obj\Debug\Model.xml
+E:\Work\Work\VS\CLRTest\CLRTest\obj\Debug\refactor.xml
+E:\Work\Work\VS\CLRTest\CLRTest\obj\Debug\postdeploy.sql
+E:\Work\Work\VS\CLRTest\CLRTest\obj\Debug\predeploy.sql
+E:\Work\Work\VS\CLRTest\CLRTest\obj\Debug\CLRTest.dll
+E:\Work\Work\VS\CLRTest\CLRTest\obj\Debug\CLRTest.pdb
+C:\Work\CLRTest\CLRTest\obj\Debug\CLRTest.dll
+C:\Work\CLRTest\CLRTest\bin\Debug\CLRTest.dacpac
+C:\Work\CLRTest\CLRTest\bin\Debug\CLRTest_Create.sql
+C:\Work\CLRTest\CLRTest\bin\Debug\CLRTest.dll
+C:\Work\CLRTest\CLRTest\bin\Debug\CLRTest.pdb
+C:\Work\CLRTest\CLRTest\obj\Debug\Model.xml
+C:\Work\CLRTest\CLRTest\obj\Debug\refactor.xml
+C:\Work\CLRTest\CLRTest\obj\Debug\postdeploy.sql
+C:\Work\CLRTest\CLRTest\obj\Debug\predeploy.sql
+C:\Work\CLRTest\CLRTest\obj\Debug\CLRTest.pdb
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\bin\Debug\CLRTest.dacpac
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\bin\Debug\CLRTest_Create.sql
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\bin\Debug\CLRTest.dll
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\bin\Debug\CLRTest.pdb
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\Model.xml
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\refactor.xml
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\postdeploy.sql
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\predeploy.sql
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\CLRTest.dll
+c:\Work\SQL Server Internals\.Net\13.Chapters 13-14 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\CLRTest.pdb
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\bin\Debug\CLRTest.dacpac
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\bin\Debug\CLRTest.dll
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\bin\Debug\CLRTest.pdb
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\Model.xml
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\refactor.xml
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\postdeploy.sql
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\predeploy.sql
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\CLRTest.dll
+c:\.Net\14.Chapters 14-15 (CLR)\SQL Server 2008-2008R2\CLRTest\obj\Debug\CLRTest.pdb
